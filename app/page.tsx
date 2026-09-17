@@ -42,7 +42,7 @@ export default function Home() {
               </span>
             </div>
             <p className="text-lg md:text-xl text-primary-600 dark:text-primary-400 font-semibold mb-2 animate-fadeInUp animation-delay-300">
-              🎓 3rd Year CSE Student at AKTU
+              🎓 4th Year CSE Student at AKTU
             </p>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-10 animate-fadeInUp animation-delay-400 leading-relaxed">
               Passionate about building <span className="font-semibold text-primary-600 dark:text-primary-400">scalable web applications</span> and solving complex problems with clean code.
