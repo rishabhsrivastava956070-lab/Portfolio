@@ -29,7 +29,7 @@ export default function AboutPage() {
               🎓 Student at AKTU
             </p>
             <p className="text-gray-600 dark:text-gray-300">
-              Currently pursuing Bachelor of Technology in Computer Science and Engineering (3rd Year)
+              Currently pursuing Bachelor of Technology in Computer Science and Engineering (4th Year)
             </p>
           </div>
 
