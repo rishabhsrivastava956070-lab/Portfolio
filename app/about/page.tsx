@@ -81,7 +81,7 @@ export default function AboutPage() {
                   <p className="font-bold text-lg text-gray-900 dark:text-white mb-2 flex items-center gap-2">
                     <span className="text-primary-600 dark:text-primary-400">🎓</span> Academic Excellence
                   </p>
-                  <p>3rd Year CSE student at AKTU, continuously learning and applying new technologies</p>
+                  <p>4th Year CSE student at AKTU, continuously learning and applying new technologies</p>
                 </div>
                 <div className="p-5 bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm rounded-xl hover:shadow-lg transition-all duration-300 transform hover:scale-105 border border-purple-200 dark:border-purple-800">
                   <p className="font-bold text-lg text-gray-900 dark:text-white mb-2 flex items-center gap-2">
