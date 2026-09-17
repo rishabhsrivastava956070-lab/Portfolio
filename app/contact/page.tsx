@@ -112,7 +112,7 @@ export default function ContactPage() {
                 <div className="text-3xl animate-bounce-slow" style={{ animationDelay: '0.4s' }}>🎓</div>
                 <div>
                   <p className="font-bold text-gray-900 dark:text-white mb-1">Education</p>
-                  <p className="text-pink-600 dark:text-pink-400 font-semibold">3rd Year CSE, AKTU</p>
+                  <p className="text-pink-600 dark:text-pink-400 font-semibold">4th Year CSE, AKTU</p>
                 </div>
               </div>
 
